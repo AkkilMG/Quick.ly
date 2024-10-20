@@ -7,7 +7,7 @@ const NotFound: React.FC = () => {
         <section id="journal-scroll">
             <main>
                 <div className="bg-indigo-900 relative overflow-hidden h-screen">
-                    <img src="https://raw.githubusercontent.com/AkkilMG/tool/main/images/error.svg" className="absolute h-full w-full object-cover bg-fixed" />
+                    <img src="/assets/error.jpg" className="absolute h-full w-full object-cover bg-fixed" />
                     <div className="inset-0 bg-black opacity-25 absolute">
                     </div>
                     <div className="container mx-auto px-6 md:px-12 relative z-10 flex items-center py-32 xl:py-40">
