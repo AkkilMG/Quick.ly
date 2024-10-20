@@ -2,11 +2,10 @@
 
 ## Introduction
 
-Quick.ly is a project aimed at providing fast and efficient solutions for managing tasks and projects. It leverages modern web technologies to deliver a seamless user experience.
+Quick.ly is a project aimed at providing fast and efficient shorten the url.
 
 - **Fast**: Optimized for speed and performance.
 - **Efficient**: Designed to streamline your workflow.
-- **User-Friendly**: Intuitive interface for easy navigation.
 
 ## Getting Started
 
