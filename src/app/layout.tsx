@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
   title: "Quick.ly",
@@ -22,6 +23,7 @@ export default function RootLayout({ children, }: Readonly<{ children: React.Rea
             <Footer />
           </footer>
         </section>
+        <Analytics/>
       </body>
     </html>
   );
